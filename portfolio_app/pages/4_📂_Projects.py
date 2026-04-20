@@ -13,7 +13,7 @@ projects = {
     },
     "🏫 Barangay Record System": {
         "desc": "A system is a digital solution designed to make barangay services faster, more organized, and accessible through mobile devices like smartphones or tablets. Instead of relying on manual records (paper-based), the system stores and manages data electronically, allowing barangay staff and sometimes residents to access important information anytime.",
-        "img": "C:/Users/jenif/Downloads/mobile barangay records access system.png"
+        "img": ""portfolio_app/mobile barangay records access system.png
     }
 }
 
